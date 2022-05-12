@@ -1,25 +1,17 @@
-﻿
-using BussnesClass;
+﻿using BussnesClass;
 using System;
 using System.Threading;
 
 namespace Service
 {
-    public class ElevatorMovment: IElevator
+    public class ElevatorMovment
 
     {   private readonly Elevator _elevator;
         public ElevatorMovment(Elevator elevator)
         {
             _elevator = elevator;
         }
-        public void ElevatorMoves()
-        {
-            throw new NotImplementedException();
-        }
-        public void FloorElevatorStop()
-        {
-            throw new NotImplementedException();
-        }
+       
         public void ElevatorMoving()
         {
             int elevatorPlaceFloor = _elevator.ElevatorPlace;
