@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorTask-BranchTask", "ElevatorTask-BranchTask\ElevatorTask-BranchTask.csproj", "{27F3E3DA-DB73-4E2D-A97F-8BFAD6D3F51D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F3E3DA-DB73-4E2D-A97F-8BFAD6D3F51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F3E3DA-DB73-4E2D-A97F-8BFAD6D3F51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F3E3DA-DB73-4E2D-A97F-8BFAD6D3F51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F3E3DA-DB73-4E2D-A97F-8BFAD6D3F51D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {794B087D-CA14-4EA1-900E-DD34E53B8FE2}
+	EndGlobalSection
+EndGlobal
